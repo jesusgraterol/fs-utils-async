@@ -1,6 +1,6 @@
 {
   "name": "fs-utils-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The fs-utils-async package provides a collection of well-tested, asynchronous file system utility functions. It mirrors fs-utils-sync name for name, promotes consistency and readability across projects by providing a unified approach to common file operations, saving you development time and improving code quality.",
   "type": "module",
   "main": "./dist/index.js",
